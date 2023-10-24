@@ -1,0 +1,25 @@
+{
+  "name": "parking-spaces",
+  "version": "1.0.0",
+  "description": "Recursive program to calculate parking formations given available spaces and vehicle data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViennaBorowska/parking-spaces.git"
+  },
+  "keywords": [
+    "recursion",
+    "javascript",
+    "programming",
+    "algorithms"
+  ],
+  "author": "Vienna Borowska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ViennaBorowska/parking-spaces/issues"
+  },
+  "homepage": "https://github.com/ViennaBorowska/parking-spaces#readme"
+}
